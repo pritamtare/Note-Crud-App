@@ -1,0 +1,12 @@
+1. Open the folder "notesApp" on terminal.
+
+2. Run app.js as => node app.js --hekp
+    -You'll get commands and options
+
+3. To add new notes =>         node app.js add --title="Title1" --body="this is the body"
+
+4. To remove a note =>         node app.js remove --title="Title1"
+
+5. To list all notes =>        node app.js list
+
+6. To read a note =>           node app.js read --title="Title1" 
